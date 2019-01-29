@@ -61,8 +61,10 @@
     * 한개의 dao를 여러 service가 참조하도록 한다.
 
 
-<img src="./readme_img/spring/di1.png" height="650">
-<img src="./readme_img/spring/di2.png" height="650">
+<center><img src="../readme_img/spring/di1.png" height="300"></center>
+	
+	
+<center><img src="../readme_img/spring/di2.png" height="300"></center>
 
 
 <br>
