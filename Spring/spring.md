@@ -1,14 +1,6 @@
 # Spring 
 
 > 스프링을 공부하며 `중요한 부분이나 기억해야할 부분` 들을 정리하였습니다.
-<br>
-
-### 목차
-
-### 1. 
-<br>
-
----
 
 <br>
 
@@ -69,7 +61,8 @@
     * 한개의 dao를 여러 service가 참조하도록 한다.
 
 
-<img src="./Readme_img/home.png" height="650">
+<img src="./readme_img/spring/di1.png" height="650">
+<img src="./readme_img/spring/di2.png" height="650">
 
 
 <br>
